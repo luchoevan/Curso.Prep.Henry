@@ -1,0 +1,28 @@
+    h1 {
+      color: yellow;
+    }
+
+    img {
+      width: 500px;
+    }
+
+    #thirdDiv {
+      height: 500px;
+      width: 600px;
+      background-color: green;
+      padding: 50px;
+      border: 10px solid blue;
+    }
+
+    #spanId {
+      font-size: 28px;
+      margin: 50px;
+    }
+
+    body {
+      background-image: url("https://i.pinimg.com/474x/b4/8e/01/b48e0194c9757004dcde8df53c0a030d--washington-usa-usa-travel.jpg");
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+      color: azure;
+      }
