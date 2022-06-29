@@ -8,12 +8,14 @@ function crearUsuario() {
   // {{nombre}} debe ser el nombre definido en cada instancia
   // Devuelve la clase
   // Tu código:
+  
 }
 
 function agregarMetodoPrototype(Constructor) {
   // Agrega un método al Constructor del `prototype`
   // El método debe llamarse "saludar" y debe devolver la string "Hello World!"
   // Tu código:
+
 }
 
 function agregarStringInvertida() {
@@ -23,6 +25,7 @@ function agregarStringInvertida() {
   // 'toni'.reverse() => 'inot'
   // Pista: Necesitarás usar "this" dentro de "reverse"
 }
+
 
 // ---------------------------------------------------------------------------//
   //Crea el constructor de la clase "Persona"
@@ -37,9 +40,10 @@ function agregarStringInvertida() {
 
   class Persona {
     constructor(/*Escribir los argumentos que recibe el constructor*/) {
-      // Crea el constructor:
+    // Crea el constructor:
+  
+  }
 
-    }
 }
 
 function crearInstanciaPersona(nombre, apellido, edad, dir) {
