@@ -147,10 +147,8 @@ function empiezaConNueve(n) {
   //Desarrolle una función que recibe como parámetro un número entero n. Debe retornar true si el entero 
   //inicia con 9 y false en otro caso.
   //Escribe tu código aquí
-  let numero = n.toString ();
-  let primeNum = numero.split("");
-  if(primeNum[0])
-}
+
+} 
 
 
 function todosIguales(arreglo) {
